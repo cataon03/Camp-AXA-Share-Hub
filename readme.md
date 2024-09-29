@@ -1,6 +1,6 @@
-# SupplySync Camp Axa
+# Camp AXA SupplySync
 
-Welcome to **SupplySync Camp Axa**, a web application designed for the international residents of Camp Axa to efficiently manage common area supplies. This platform allows exchange students at ZHAW to track whose turn it is to buy supplies, report purchases and complaints, and access helpful resources.
+Welcome to **Camp AXA SupplySync**, a web application designed for the international residents of Camp Axa to efficiently manage common area supplies. This platform allows exchange students at ZHAW to track whose turn it is to buy supplies, report purchases and complaints, and access helpful resources.
 
 ## Features
 
@@ -17,4 +17,4 @@ Feel free to suggest improvements, or report issues!
 
 ## Contact
 
-For any questions, please [reach out here](https://github.com/cataon03/SupplySync-CampAXA/issues)
+For any questions, please [reach out here](https://github.com/cataon03/Camp-AXA-SupplySync/issues)
